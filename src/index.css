@@ -1,0 +1,13 @@
+body, html {
+  height: 100%;
+}
+.bg {
+  background-image: url("https://t3.ftcdn.net/jpg/02/99/83/66/240_F_299836672_LcyxCDANK4C58SFuxnnPygNMJqoQIpbT.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Selfie{
+  margin-top: -80px;
+}
