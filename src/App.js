@@ -36,7 +36,19 @@ const BackgroundImagePage = () => {
             alt="React"
           />
        
-        <img
+       <img
+          style={{ height: "100px", width: "100px", padding: "5px" }}
+          src="https://cdn-icons-png.flaticon.com/128/9307/9307254.png"
+          alt="Django"
+        />
+
+      <img
+          style={{ height: "100px", width: "100px", padding: "10px" }}
+          src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png"
+          alt="Node.js"
+        />
+
+      <img
           style={{ height: "100px", width: "100px", padding: "5px" }}
           src="https://cdn-icons-png.flaticon.com/128/5968/5968875.png"
           alt="Jira"
